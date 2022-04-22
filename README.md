@@ -2,7 +2,7 @@
 
 ## Problem
 
-Wikipedia metinleri içeren veri setine metin ön işleme ve görselleştirme yapınız.
+Do text preprocessing and visualization on the dataset containing Wikipedia texts.
 
 
 ## Tasks
